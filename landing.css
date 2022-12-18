@@ -1,0 +1,23 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.carousel-inner h5 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 0px 3px 5px rgba(0, 0, 0, 0.15);
+}
+
+.login-form .signin {
+  width: 150px;
+  height: 42px;
+  top: 454px;
+  background: #0d4c92;
+  border-radius: 8px;
+  color: #ffffff;
+  border: none;
+}
